@@ -18,5 +18,8 @@
     <ClCompile Include="..\STL\hdu4841_RoundTable.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="..\STL\hdu_1062_Text_Reverse.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
