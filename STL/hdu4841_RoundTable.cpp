@@ -38,7 +38,7 @@ int main() {
 		int pos = 0;  //记录位置
 		for (int  i = 0; i < n; i++)
 		{
-			pos = (pos + m - 1) % table.size();
+			pos = (pos + m - 1) % table.size();//当前面的数小于后面的数时,其实求余运算可以看成a% b = a - (int)(a / b) * b
 			table.erase(table.begin() + pos);  //赶走n个坏人
 
 		}
