@@ -21,5 +21,8 @@
     <ClCompile Include="hdu4841_RoundTable.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="hdu1702.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
