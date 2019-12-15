@@ -27,5 +27,8 @@
     <ClCompile Include="hdu1873排队要看病.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="hdu1276士兵队列训练问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
