@@ -47,7 +47,6 @@ int main() {
 		all.clear();
 		losers.clear();
 		while (n--) {
-			
 			string left, right;
 			cin >> left >> right;
 			all.insert(left);
