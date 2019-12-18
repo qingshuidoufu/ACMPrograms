@@ -28,6 +28,7 @@
     <ClCompile Include="hdu4841_RoundTable.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="hdu_1027_Ignatius and the Princess II.cpp" />
     <ClCompile Include="hdu_1062_Text_Reverse.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
     </ClCompile>

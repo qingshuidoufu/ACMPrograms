@@ -36,5 +36,8 @@
     <ClCompile Include="hdu_2648_Shopping.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="hdu_1027_Ignatius and the Princess II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
